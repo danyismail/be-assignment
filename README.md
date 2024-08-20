@@ -14,7 +14,8 @@
 
 ## Tech-stack:
 
-- `Backend REST API` using Fastify
+- `Typescript`
+- `Fastify` for Backend REST API
 - `PostgreSQL` for Database. Iam using DBAS (Database as Service) from Neon Console
 - `Prisma` for ORM
 - `Docker` for containerization
